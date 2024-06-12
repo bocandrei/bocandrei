@@ -21,7 +21,7 @@
 
 <!-- - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS** -->
 
-- 📫 Feel free to reach me out **boca.andrei.iustin@gmail.com**
+- 📫 Feel free to reach me out **andrei@sophany.it**
 
 <!-- - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886). -->
 <!--Intro end-->
