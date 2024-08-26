@@ -17,7 +17,7 @@
 <!--Intro start-->
 - 🔭 I'm currently working on **React, React Native, Typescript, CSS**
 
-- 🌱 Learning how to **build awesome frontends** everyday
+- 🌱 Learning how to **build awesome products** everyday
 
 <!-- - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS** -->
 
