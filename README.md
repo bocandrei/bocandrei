@@ -15,9 +15,9 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I'm currently working on **React, React Native, Typescript, CSS**
+- 🔭 I'm currently working on **Next.js, Node, Langchain, Langraph**
 
-- 🌱 Learning how to **build awesome products** everyday
+- 🌱 Learning how to **build awesome AI agents** everyday
 
 <!-- - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS** -->
 
